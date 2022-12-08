@@ -1,0 +1,10 @@
+C:/Users/jonat/OneDrive/Code/C++/Chess/build/CMakeFiles/edit_cache.dir
+C:/Users/jonat/OneDrive/Code/C++/Chess/build/CMakeFiles/rebuild_cache.dir
+C:/Users/jonat/OneDrive/Code/C++/Chess/build/src/CMakeFiles/edit_cache.dir
+C:/Users/jonat/OneDrive/Code/C++/Chess/build/src/CMakeFiles/rebuild_cache.dir
+C:/Users/jonat/OneDrive/Code/C++/Chess/build/src/game/CMakeFiles/gamelib.dir
+C:/Users/jonat/OneDrive/Code/C++/Chess/build/src/game/CMakeFiles/edit_cache.dir
+C:/Users/jonat/OneDrive/Code/C++/Chess/build/src/game/CMakeFiles/rebuild_cache.dir
+C:/Users/jonat/OneDrive/Code/C++/Chess/build/app/CMakeFiles/chess.dir
+C:/Users/jonat/OneDrive/Code/C++/Chess/build/app/CMakeFiles/edit_cache.dir
+C:/Users/jonat/OneDrive/Code/C++/Chess/build/app/CMakeFiles/rebuild_cache.dir

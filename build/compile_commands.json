@@ -1,0 +1,62 @@
+[
+{
+  "directory": "C:/Users/jonat/OneDrive/Code/C++/Chess/build",
+  "command": "C:\\msys64\\mingw64\\bin\\gcc.exe -IC:/Users/jonat/OneDrive/Code/C++/Chess/src/game/SDL2_INCLUDE_DIRS -IC:/Users/jonat/OneDrive/Code/C++/Chess/src/game/. -g -o src\\game\\CMakeFiles\\gamelib.dir\\Common.c.obj -c C:\\Users\\jonat\\OneDrive\\Code\\C++\\Chess\\src\\game\\Common.c",
+  "file": "C:\\Users\\jonat\\OneDrive\\Code\\C++\\Chess\\src\\game\\Common.c"
+},
+{
+  "directory": "C:/Users/jonat/OneDrive/Code/C++/Chess/build",
+  "command": "C:\\msys64\\mingw64\\bin\\g++.exe -IC:/Users/jonat/OneDrive/Code/C++/Chess/src/game/SDL2_INCLUDE_DIRS -IC:/Users/jonat/OneDrive/Code/C++/Chess/src/game/. -g -o src\\game\\CMakeFiles\\gamelib.dir\\Window.cpp.obj -c C:\\Users\\jonat\\OneDrive\\Code\\C++\\Chess\\src\\game\\Window.cpp",
+  "file": "C:\\Users\\jonat\\OneDrive\\Code\\C++\\Chess\\src\\game\\Window.cpp"
+},
+{
+  "directory": "C:/Users/jonat/OneDrive/Code/C++/Chess/build",
+  "command": "C:\\msys64\\mingw64\\bin\\g++.exe -IC:/Users/jonat/OneDrive/Code/C++/Chess/src/game/SDL2_INCLUDE_DIRS -IC:/Users/jonat/OneDrive/Code/C++/Chess/src/game/. -g -o src\\game\\CMakeFiles\\gamelib.dir\\Piece.cpp.obj -c C:\\Users\\jonat\\OneDrive\\Code\\C++\\Chess\\src\\game\\Piece.cpp",
+  "file": "C:\\Users\\jonat\\OneDrive\\Code\\C++\\Chess\\src\\game\\Piece.cpp"
+},
+{
+  "directory": "C:/Users/jonat/OneDrive/Code/C++/Chess/build",
+  "command": "C:\\msys64\\mingw64\\bin\\g++.exe -IC:/Users/jonat/OneDrive/Code/C++/Chess/src/game/SDL2_INCLUDE_DIRS -IC:/Users/jonat/OneDrive/Code/C++/Chess/src/game/. -g -o src\\game\\CMakeFiles\\gamelib.dir\\pieces\\King.cpp.obj -c C:\\Users\\jonat\\OneDrive\\Code\\C++\\Chess\\src\\game\\pieces\\King.cpp",
+  "file": "C:\\Users\\jonat\\OneDrive\\Code\\C++\\Chess\\src\\game\\pieces\\King.cpp"
+},
+{
+  "directory": "C:/Users/jonat/OneDrive/Code/C++/Chess/build",
+  "command": "C:\\msys64\\mingw64\\bin\\g++.exe -IC:/Users/jonat/OneDrive/Code/C++/Chess/src/game/SDL2_INCLUDE_DIRS -IC:/Users/jonat/OneDrive/Code/C++/Chess/src/game/. -g -o src\\game\\CMakeFiles\\gamelib.dir\\pieces\\Queen.cpp.obj -c C:\\Users\\jonat\\OneDrive\\Code\\C++\\Chess\\src\\game\\pieces\\Queen.cpp",
+  "file": "C:\\Users\\jonat\\OneDrive\\Code\\C++\\Chess\\src\\game\\pieces\\Queen.cpp"
+},
+{
+  "directory": "C:/Users/jonat/OneDrive/Code/C++/Chess/build",
+  "command": "C:\\msys64\\mingw64\\bin\\g++.exe -IC:/Users/jonat/OneDrive/Code/C++/Chess/src/game/SDL2_INCLUDE_DIRS -IC:/Users/jonat/OneDrive/Code/C++/Chess/src/game/. -g -o src\\game\\CMakeFiles\\gamelib.dir\\pieces\\Rook.cpp.obj -c C:\\Users\\jonat\\OneDrive\\Code\\C++\\Chess\\src\\game\\pieces\\Rook.cpp",
+  "file": "C:\\Users\\jonat\\OneDrive\\Code\\C++\\Chess\\src\\game\\pieces\\Rook.cpp"
+},
+{
+  "directory": "C:/Users/jonat/OneDrive/Code/C++/Chess/build",
+  "command": "C:\\msys64\\mingw64\\bin\\g++.exe -IC:/Users/jonat/OneDrive/Code/C++/Chess/src/game/SDL2_INCLUDE_DIRS -IC:/Users/jonat/OneDrive/Code/C++/Chess/src/game/. -g -o src\\game\\CMakeFiles\\gamelib.dir\\pieces\\Bishop.cpp.obj -c C:\\Users\\jonat\\OneDrive\\Code\\C++\\Chess\\src\\game\\pieces\\Bishop.cpp",
+  "file": "C:\\Users\\jonat\\OneDrive\\Code\\C++\\Chess\\src\\game\\pieces\\Bishop.cpp"
+},
+{
+  "directory": "C:/Users/jonat/OneDrive/Code/C++/Chess/build",
+  "command": "C:\\msys64\\mingw64\\bin\\g++.exe -IC:/Users/jonat/OneDrive/Code/C++/Chess/src/game/SDL2_INCLUDE_DIRS -IC:/Users/jonat/OneDrive/Code/C++/Chess/src/game/. -g -o src\\game\\CMakeFiles\\gamelib.dir\\pieces\\Knight.cpp.obj -c C:\\Users\\jonat\\OneDrive\\Code\\C++\\Chess\\src\\game\\pieces\\Knight.cpp",
+  "file": "C:\\Users\\jonat\\OneDrive\\Code\\C++\\Chess\\src\\game\\pieces\\Knight.cpp"
+},
+{
+  "directory": "C:/Users/jonat/OneDrive/Code/C++/Chess/build",
+  "command": "C:\\msys64\\mingw64\\bin\\g++.exe -IC:/Users/jonat/OneDrive/Code/C++/Chess/src/game/SDL2_INCLUDE_DIRS -IC:/Users/jonat/OneDrive/Code/C++/Chess/src/game/. -g -o src\\game\\CMakeFiles\\gamelib.dir\\pieces\\Pawn.cpp.obj -c C:\\Users\\jonat\\OneDrive\\Code\\C++\\Chess\\src\\game\\pieces\\Pawn.cpp",
+  "file": "C:\\Users\\jonat\\OneDrive\\Code\\C++\\Chess\\src\\game\\pieces\\Pawn.cpp"
+},
+{
+  "directory": "C:/Users/jonat/OneDrive/Code/C++/Chess/build",
+  "command": "C:\\msys64\\mingw64\\bin\\g++.exe -IC:/Users/jonat/OneDrive/Code/C++/Chess/src/game/SDL2_INCLUDE_DIRS -IC:/Users/jonat/OneDrive/Code/C++/Chess/src/game/. -g -o src\\game\\CMakeFiles\\gamelib.dir\\Board.cpp.obj -c C:\\Users\\jonat\\OneDrive\\Code\\C++\\Chess\\src\\game\\Board.cpp",
+  "file": "C:\\Users\\jonat\\OneDrive\\Code\\C++\\Chess\\src\\game\\Board.cpp"
+},
+{
+  "directory": "C:/Users/jonat/OneDrive/Code/C++/Chess/build",
+  "command": "C:\\msys64\\mingw64\\bin\\g++.exe -IC:/Users/jonat/OneDrive/Code/C++/Chess/src/game/SDL2_INCLUDE_DIRS -IC:/Users/jonat/OneDrive/Code/C++/Chess/src/game/. -g -o src\\game\\CMakeFiles\\gamelib.dir\\Game.cpp.obj -c C:\\Users\\jonat\\OneDrive\\Code\\C++\\Chess\\src\\game\\Game.cpp",
+  "file": "C:\\Users\\jonat\\OneDrive\\Code\\C++\\Chess\\src\\game\\Game.cpp"
+},
+{
+  "directory": "C:/Users/jonat/OneDrive/Code/C++/Chess/build",
+  "command": "C:\\msys64\\mingw64\\bin\\g++.exe -IC:/Users/jonat/OneDrive/Code/C++/Chess/src/game -IC:/Users/jonat/OneDrive/Code/C++/Chess/src/game/. -g -o app\\CMakeFiles\\chess.dir\\main.cpp.obj -c C:\\Users\\jonat\\OneDrive\\Code\\C++\\Chess\\app\\main.cpp",
+  "file": "C:\\Users\\jonat\\OneDrive\\Code\\C++\\Chess\\app\\main.cpp"
+}
+]

@@ -1,0 +1,15 @@
+# ninja log v5
+1165	1292	6921734320631802	app/chess.exe	f6dd68ac38cfb8db
+16	280	6920794211393515	src/game/CMakeFiles/gamelib.dir/pieces/Rook.cpp.obj	2b6ce99303b50e8d
+13	265	6920794211473512	src/game/CMakeFiles/gamelib.dir/pieces/Queen.cpp.obj	1df19afb44c33f7f
+20	277	6920794211493523	src/game/CMakeFiles/gamelib.dir/pieces/Bishop.cpp.obj	5b2b0b8af6fcd3b1
+1073	1165	6921734319391804	src/game/libgamelib.a	3e6c6cf949ff47b
+25	281	6920794211593518	src/game/CMakeFiles/gamelib.dir/pieces/Knight.cpp.obj	90cbdcf3ceaaef4f
+15	914	6921695612730404	src/game/CMakeFiles/gamelib.dir/Common.c.obj	e6d75cb6a9374c41
+11	1072	6921734318461804	src/game/CMakeFiles/gamelib.dir/Game.cpp.obj	e7207e47ae3821dc
+18	1011	6921733553728812	src/game/CMakeFiles/gamelib.dir/pieces/Pawn.cpp.obj	7583d402af446016
+19	1245	6921695616680410	src/game/CMakeFiles/gamelib.dir/Window.cpp.obj	b448ec8853862433
+13	1041	6921733554028814	src/game/CMakeFiles/gamelib.dir/Piece.cpp.obj	52ab9e56b8c28703
+16	1047	6921733554128810	src/game/CMakeFiles/gamelib.dir/pieces/King.cpp.obj	324e5276ff19ef7e
+23	1349	6921733557158819	app/CMakeFiles/chess.dir/main.cpp.obj	592951adc260ff0b
+29	1070	6921695614790397	src/game/CMakeFiles/gamelib.dir/Board.cpp.obj	7d78249ba6e0328f

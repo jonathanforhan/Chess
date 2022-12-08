@@ -1,0 +1,2 @@
+add_executable(${PROJ_NAME} main.cpp)
+target_include_directories(${PROJ_NAME} PUBLIC ${CMAKE_SOURCE_DIR}/src/game)
